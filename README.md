@@ -65,7 +65,7 @@ It is developed based on the [tf-faster-rcnn](https://github.com/endernewton/tf-
 2. Create symlinks for the converted PASCAL VOC dataset
 	```Shell
 	cd $RDDC_ROOT/data
-	ln -s $road_damage_dataset VOCdevkit2007
+	ln -s road_damage_dataset VOCdevkit2007
 	```
 
 ### Submission
